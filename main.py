@@ -1,7 +1,8 @@
 # Práctica 1 — MiProyectoPy
-# Estudiante: brayne00
+# Estudiante: Brayne Duarte
+# Universidad: UNPHU
 
 nombre = "Brayne"
-apellido = "00"
+apellido = "Duarte"
 
 print(nombre, apellido)

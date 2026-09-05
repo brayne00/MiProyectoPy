@@ -2,6 +2,10 @@
 
 Práctica 1: crear un repositorio público en GitHub y subir un archivo Python.
 
+**Estudiante:** Brayne Duarte  
+**Universidad:** UNPHU  
+**GitHub:** [brayne00](https://github.com/brayne00)
+
 ## Entregable
 
 Repositorio público: https://github.com/brayne00/MiProyectoPy
@@ -15,7 +19,7 @@ python3 main.py
 Salida esperada:
 
 ```
-Brayne 00
+Brayne Duarte
 ```
 
 ## Enunciado
